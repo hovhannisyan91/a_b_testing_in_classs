@@ -33,7 +33,7 @@ You must design the system.
 2. A system architecture diagram  
 3. A clear statistical decision protocol  
 
-## STEP 1 | Experimental Logic Flowchart (10 minutes)
+## STEP 1 | Experimental Logic Flowchart
 
 **Draw a flowchart that includes at minimum:**
 
